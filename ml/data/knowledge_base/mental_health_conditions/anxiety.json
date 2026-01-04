@@ -1,0 +1,16 @@
+{
+    "id": "anxiety_overview",
+    "title": "Understanding Anxiety Disorders",
+    "category": "mental_health_conditions",
+    "content": "Anxiety disorders are the most common mental health concern in the United States. Over 40 million adults in the U.S. (19.1%) have an anxiety disorder. Meanwhile, approximately 7% of children aged 3-17 experience anxiety issues each year.\n\nWhile anxiety is a normal reaction to stress and can be beneficial in some situations, for people with anxiety disorders, the fear is not temporary and can be overwhelming. Symptoms of anxiety disorders can interfere with daily activities such as job performance, schoolwork, and relationships.\n\nTypes of anxiety disorders include: Generalized Anxiety Disorder (GAD), Panic Disorder, Social Anxiety Disorder, and Specific Phobias. Common symptoms include: excessive worrying, feeling agitated, restlessness, fatigue, difficulty concentrating, irritability, tense muscles, and trouble falling or staying asleep.\n\nAnxiety is highly treatable, yet only about 37% of those suffering receive treatment. Treatment typically includes therapy (particularly Cognitive Behavioral Therapy), medication, or both. Lifestyle changes such as regular exercise, adequate sleep, and stress management techniques can also help manage anxiety symptoms.",
+    "tags": [
+        "anxiety",
+        "worry",
+        "panic",
+        "treatment",
+        "CBT"
+    ],
+    "source": "Anxiety and Depression Association of America",
+    "verified": true,
+    "last_updated": "2024-01-15"
+}

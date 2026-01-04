@@ -1,0 +1,22 @@
+# Prometheus monitoring configuration
+
+global:
+  scrape_interval: 15s
+  evaluation_interval: 15s
+
+scrape_configs:
+  # ML Inference Service
+  - job_name: 'ml-inference'
+    static_configs:
+      - targets: ['ml-inference:8000']
+    metrics_path: '/metrics'
+  
+  # MLflow
+  - job_name: 'mlflow'
+    static_configs:
+      - targets: ['mlflow:5000']
+  
+  # Milvus
+  - job_name: 'milvus'
+    static_configs:
+      - targets: ['milvus:9091']

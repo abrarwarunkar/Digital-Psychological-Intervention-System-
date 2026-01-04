@@ -1,0 +1,39 @@
+# Ignore data files tracked by DVC
+/data/raw/*
+/data/processed/*
+/data/labels/*
+!/data/**/.gitkeep
+
+# Ignore model artifacts
+/models/*.pkl
+/models/*.pt
+/models/*.bin
+!/models/.gitkeep
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+mlruns/
+
+# OS
+.DS_Store
+Thumbs.db

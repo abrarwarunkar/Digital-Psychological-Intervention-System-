@@ -1,0 +1,20 @@
+# Training hyperparameters
+
+train:
+  learning_rate: 0.05
+  n_estimators: 100
+  max_depth: 5
+  random_state: 42
+
+model:
+  type: lightgbm
+  objective: multiclass
+  num_classes: 5  # PHQ-9 has 5 severity levels
+
+data:
+  test_size: 0.2
+  validation_size: 0.1
+
+mlflow:
+  experiment_name: screening-classifier
+  tracking_uri: http://localhost:5002

@@ -1,0 +1,16 @@
+{
+    "id": "crisis_resources",
+    "title": "Crisis Support and Emergency Resources",
+    "category": "crisis_info",
+    "content": "If you or someone you know is in crisis, please reach out for help immediately. You are not alone, and support is available 24/7.\n\nNational Crisis Hotlines:\n- 988 Suicide & Crisis Lifeline: Call or text 988 for free, confidential support 24/7. Trained crisis counselors can help with suicidal thoughts, mental health crises, substance abuse, and more.\n- Crisis Text Line: Text 'HELLO' to 741741 to connect with a trained crisis counselor. Available 24/7, free, and confidential.\n- Veterans Crisis Line: Call 988 then press 1, text 838255, or chat online. Specialized support for veterans and their families.\n\nEmergency Services:\n- If you or someone else is in immediate danger, call 911 or go to your nearest emergency room.\n\nOnline Resources:\n- National Suicide Prevention Lifeline (suicidepreventionlifeline.org): Chat online, find resources, create a safety plan.\n- Crisis Text Line (crisistextline.org): Information about text support.\n- SAMHSA National Helpline (1-800-662-4357): Free, confidential treatment referral and information service for mental health and substance abuse.\n\nRemember: Reaching out for help is a sign of strength, not weakness. Crisis counselors are trained to help and will not judge you. All services are free and confidential.",
+    "tags": [
+        "crisis",
+        "emergency",
+        "988",
+        "suicide prevention",
+        "hotline"
+    ],
+    "source": "SAMHSA",
+    "verified": true,
+    "last_updated": "2024-01-15"
+}

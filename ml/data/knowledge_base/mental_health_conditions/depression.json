@@ -1,0 +1,15 @@
+{
+    "id": "depression_overview",
+    "title": "Understanding Depression",
+    "category": "mental_health_conditions",
+    "content": "Depression (major depressive disorder) is a common and serious medical illness that negatively affects how you feel, the way you think and how you act.  Depression causes feelings of sadness and/or a loss of interest in activities you once enjoyed. It can lead to a variety of emotional and physical problems and can decrease your ability to function at work and at home.\n\nSymptoms can vary from mild to severe and must last at least two weeks for a diagnosis. Symptoms include: feeling sad or having a depressed mood, loss of interest or pleasure in activities once enjoyed, changes in appetite, trouble sleeping or sleeping too much, loss of energy or increased fatigue, increase in purposeless physical activity or slowed movements and speech, feeling worthless or guilty, difficulty thinking, concentrating or making decisions, and thoughts of death or suicide.\n\nDepression is among the most treatable of mental disorders. Between 80% and 90% of people with depression eventually respond well to treatment. Almost all patients gain some relief from their symptoms. Treatment may include psychotherapy (talking therapies), medication, or a combination of both.",
+    "tags": [
+        "depression",
+        "symptoms",
+        "treatment",
+        "mental health"
+    ],
+    "source": "American Psychiatric Association",
+    "verified": true,
+    "last_updated": "2024-01-15"
+}

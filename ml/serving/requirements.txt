@@ -1,0 +1,14 @@
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+pydfastapi
+uvicorn
+mlflow
+prometheus_client
+joblib
+scikit-learn
+pandas
+torch
+transformers==1.3.2
+prometheus-client==0.19.0
+python-multipart==0.0.6
+requests==2.31.0
